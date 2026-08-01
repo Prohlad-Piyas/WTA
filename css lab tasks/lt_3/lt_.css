@@ -1,0 +1,17 @@
+nav{
+    background: lightblue;
+    padding: 10px;
+}
+
+nav a{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover{
+    background: blue;
+    color: white;
+}

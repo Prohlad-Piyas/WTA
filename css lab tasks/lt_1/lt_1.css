@@ -1,0 +1,31 @@
+body{
+    font-family: Arial;
+    background: white;
+}
+
+header{
+    text-align: center;
+    background: lightblue;
+    padding: 15px;
+}
+
+.profile{
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid black;
+    background: lightgray;
+    text-align: center;
+}
+
+.profile img{
+    width: 120px;
+    border-radius: 10px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background: lightblue;
+}

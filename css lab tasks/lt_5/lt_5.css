@@ -1,0 +1,13 @@
+.contact{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    background: lightblue;
+    z-index: 1;
+}
+
+.contact:hover{
+    background: lightgreen;
+}
